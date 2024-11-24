@@ -24,4 +24,5 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
     delete[] b; //memoria felszabadítása
     return 0;
+    std::cout << "Pull request kiegészítés"<< std::endl;
 }
